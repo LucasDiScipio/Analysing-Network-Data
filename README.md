@@ -4,4 +4,4 @@ This project focuses on exploring and analysing network data by applying graph t
 
 ## Technical details:
 #### Programing Language Used: python 3 with python notebook
-#### Librairies: NetworkX
+#### Librairies: NetworkX & Matplotlib
